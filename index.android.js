@@ -4,7 +4,11 @@
  * @flow
  */
 
+<<<<<<< HEAD
 //test3
+=======
+ //  modify 2
+>>>>>>> master
 
 import React, { Component } from 'react';
 import {
