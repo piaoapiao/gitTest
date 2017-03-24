@@ -1,3 +1,5 @@
+11111
+
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -8,13 +10,17 @@
 
 //444
 
-<<<<<<< HEAD
+
 //master 21
-=======
+
+//master 31
+
 //deve55
 
 //deve66
->>>>>>> developer
+
+234
+
 
 //master rebase
 
