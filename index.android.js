@@ -8,13 +8,15 @@
 
 //444
 
-<<<<<<< HEAD
+
 //master 21
-=======
+
+//master 31
+
 //deve55
 
 //deve66
->>>>>>> developer
+
 
 import React, { Component } from 'react';
 import {
