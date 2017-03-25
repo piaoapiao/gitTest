@@ -22,6 +22,10 @@
 
 // base1
 
+base2
+
+base3
+
 
 
 import React, { Component } from 'react';
