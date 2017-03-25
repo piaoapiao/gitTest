@@ -1,12 +1,16 @@
-<<<<<<< HEAD
+HEAD
 lqy1
 lqy2
 lqy3
-=======
+
 wjl1
 wjl2
+HEAD
 
->>>>>>> wjl1
+wjl1
+
+wjl3
+wjl3
 11111
 22
 /**
