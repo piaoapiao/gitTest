@@ -80,6 +80,11 @@ const styles = StyleSheet.create({
 
 AppRegistry.registerComponent('FirstReact', () => FirstReact);
 
+
 4
 5
 6
+111111
+
+
+br3 1
