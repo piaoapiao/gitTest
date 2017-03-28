@@ -104,6 +104,7 @@ AppRegistry.registerComponent('FirstReact', () => FirstReact);
 br3 1
 
 111111
+base1
 
 
 
