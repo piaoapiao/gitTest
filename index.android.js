@@ -1,6 +1,7 @@
 dev2-merg1
 dev2-merg2
-HEAD
+dev1-merge1
+dev1-merge2
 lqy1
 lqy2
 lqy3

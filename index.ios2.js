@@ -1,3 +1,7 @@
+dev2--add1
+dev2--add2
+git1 com1
+git2-com2
 
 master2
 
@@ -9,6 +13,9 @@ baba2
 
 baba3
 baba3
+
+dev1
+dev2
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
